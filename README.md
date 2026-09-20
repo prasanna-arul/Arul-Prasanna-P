@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Prasanna Arul 👋
 
-<!--
-**prasanna-arul/Prasanna-arul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student fascinated by aerospace and the cosmos. I'm building my coding skills through projects on orbits, satellites, and embedded sensors, with the goal of pursuing graduate studies in Japan.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Learning: C, Python, Git
+- Building: a Python orbit simulator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛰️ Projects (coming soon)
+- Orbit simulator
+- ISS pass tracker
+- Sensor data logger (C + Python)
+
+## 📫 Reach me
+- Email: 10praz12@gmail.com
