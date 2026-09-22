@@ -1,4 +1,4 @@
-# Hi, I'm Prasanna Arul 👋
+# Hi, I'm Arul Prasanna P 👋
 
 ECE student fascinated by aerospace and the cosmos. I'm building my coding skills through projects on orbits, satellites, and embedded sensors, with the goal of pursuing graduate studies in Japan.
 
